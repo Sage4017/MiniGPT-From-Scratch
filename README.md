@@ -47,10 +47,20 @@ The model was trained on a Shakespeare text corpus and generated
 Shakespeare-like dialogue from scratch.
 
 Example:
+Fourth, thou till I will whether I was razed.
+No authory in your choices, nature, till sweet,
+But in this anjague ignown point of love.
 
-> Fourth, thou till I will whether I was razed...
+LUCESTIO:
+Well, noble interious.
 
-[put your generated sample here]
+ISABELLA:
+I do rark on, sir, I help wish myself,
+Recans sake, and speak hour more, if I did;
+for King on in the partial hand, or had I
+Savent time comes in a traitor; takes thee more but weep
+Their fathes hath been well sazed they to speak?
+As I do soony to live them to doth think of love?
 
 ## How to run
 
